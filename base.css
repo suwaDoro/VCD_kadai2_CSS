@@ -1,0 +1,31 @@
+@charset "utf-8";
+body h1 {
+	color: #FFFFFF;
+	font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	font-weight: bolder;
+	font-size: 40px;
+	list-style-position: outside;
+	text-align: center;
+}
+.key {
+	color: #000000;
+	background-color: #C4C4C4;
+	font-size: x-large;
+	background-size: cover;
+}
+body p img {
+	border: 10px double #FF7777;
+}
+.teacher {
+	text-align: right;
+	background-repeat: no-repeat;
+}
+body {
+	background-repeat: no-repeat;
+	background-color: #1E1E1E;
+	color: #FFFFFF;
+}
+body p a {
+	color: #24D7FF;
+	font-weight: bold;
+}

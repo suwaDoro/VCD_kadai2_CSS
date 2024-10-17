@@ -1,0 +1,26 @@
+@charset "utf-8";
+body h1 {
+	font-size: 50px;
+	color: #3442A9;
+	font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	text-align: center;
+}
+body p {
+	font-family: YuGothic, "Yu Gothic medium", "Hiragino Sans", Meiryo, sans-serif;
+	text-align: left;
+}
+.teacher {
+	text-align: right;
+	color: #FFFFFF;
+}
+body {
+	background-image: url(background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+ul li a {
+	line-height: 40px;
+	color: #FFFFFF;
+}
